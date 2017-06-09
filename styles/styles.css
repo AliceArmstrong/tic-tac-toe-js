@@ -1,0 +1,16 @@
+.grid {
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: 50px 50px 50px 50px;
+}
+
+.button {
+            background: rgb(66, 184, 221);
+            border: solid;
+        }
+
+.reset {
+  background: rgb(66, 184, 221);
+  border: solid;
+
+}
